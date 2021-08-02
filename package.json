@@ -1,0 +1,21 @@
+{
+    "name": "cherry-blossom-red-light-theme",
+    "displayName": "cherry-blossom-red-light-theme",
+    "description": "A light color theme that has a cherry red like color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cherry Blossom Red",
+                "uiTheme": "vs",
+                "path": "./themes/Cherry Blossom Red-color-theme.json"
+            }
+        ]
+    }
+}
